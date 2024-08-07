@@ -36,7 +36,7 @@ Here are some packages you need to have installed on your PC:
 
 1. Clone this repo
    ```sh
-   git clone https://github.com/AnyachebeluG/digital-art-dapp.git
+   git clone https://github.com/callosedhands/digital-art-dapp.git
    ```
 2. Install NPM packages
    ```sh
